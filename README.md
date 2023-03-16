@@ -1,0 +1,3 @@
+# Emotion Detection con tecniche di Deep Learning
+
+Per eseguire il codice ...
