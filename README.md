@@ -9,6 +9,7 @@ Per eseguire il codice ...
 * scikit-learn
 * pandas
 * matplot-lib
+* imblearn
 
 # convert notebook to python scipt
 
